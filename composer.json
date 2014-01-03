@@ -1,0 +1,14 @@
+{
+    "name": "leight/CompletionQueue",
+    "homepage": "https://github.com/leight/CompletionQueue",
+    "description": "A queue that only allows dequeuing of items flagged as complete.",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
