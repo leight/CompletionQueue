@@ -39,7 +39,7 @@ class CompletionQueue implements Countable
     }
 
     public function count()
-
+    {
         return count($this->items);
     }
 }
